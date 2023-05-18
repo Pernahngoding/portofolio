@@ -1,9 +1,9 @@
 .banner{
-    background:url(https://i.pinimg.com/236x/9c/c7/8d/9cc78df18c3457cf6c1815c9fb2b6363.jpg) no-repeat center center;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQez5tGWksebgzlxi4Pq8MGw8FKcM7_VTUrtQ&usqp=CAU) no-repeat center center ;
     background-size: cover;
     padding-top: 20%;
     padding-bottom: 20%;
-    color:fuchsia
+    color:white;
 }
 footer .main-footer{  padding: 20px 0;  background: #252525;}
 footer ul{  padding-left: 0;  list-style: none;}
